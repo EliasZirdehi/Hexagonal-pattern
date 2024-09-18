@@ -26,7 +26,6 @@ To run this app locally, you’ll need:
 
 Install the required packages using:
 
-```bash
 pip install streamlit Pillow svgwrite numpy scipy
 
 ## How to Run
