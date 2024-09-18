@@ -1,6 +1,6 @@
 # Hexagonal Lattice Generator
 
-This project is a **fun exploration** and a **test of the deployment process** for Streamlit apps. It generates a customizable hexagonal lattice pattern based on an input grayscale image, allowing users to experiment with various lattice parameters such as hexagon size, color, and image dimensions. The app can output images in both **SVG** and **PNG/JPG** formats, with the option for a **transparent background**.
+This project is a **fun exploration** and a **test of the deployment process** for Streamlit apps. It generates a customizable hexagonal lattice pattern based on an input grayscale image, allowing users to experiment with various parameters such as lattice constant, hexagon size, color, and image dimensions. The app can output images in both **SVG** and **PNG/JPG** formats, with the option for a **transparent background**.
 
 ## Features
 
