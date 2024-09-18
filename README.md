@@ -44,7 +44,6 @@ streamlit run Hexagonal_Pattern.py
 
 This project is open-source under the MIT License.
 
-Enjoy playing around with the Hexagonal Lattice Generator!
 
 
 ### Updates:
