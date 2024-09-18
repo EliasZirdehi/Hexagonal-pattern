@@ -47,6 +47,6 @@ This project is open-source under the MIT License.
 
 
 ### Updates:
-- Added the live demo link: `https://hexagonal-pattern.streamlit.app`.
+- Added the live demo link: https://hexagonal-pattern.streamlit.app
 
 Feel free to experiment with the code and adjust parameters to create your own unique patterns!
