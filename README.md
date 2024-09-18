@@ -32,12 +32,11 @@ pip install streamlit Pillow svgwrite numpy scipy
 
 1- Clone this repository:
 
-git clone https://github.com/yourusername/hexagonal-lattice-generator.git
-cd hexagonal-lattice-generator
+git clone https://github.com/EliasZirdehi/Hexagonal-pattern.git
 
 2- Run the app with Streamlit:
 
-streamlit run app.py
+streamlit run Hexagonal_Pattern.py
 
 3- The app will open in your browser, and you can start generating hexagonal lattice patterns!
 
